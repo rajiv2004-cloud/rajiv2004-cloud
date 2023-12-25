@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm rajiv</h1>
 <h3 align="center">I'm a passionate software developer with a love for coding and a curiosity for exploring new technologies. I enjoy turning innovative ideas into practical solutions. When I'm not in front of my computer, you can find me cycling,exploring, or brewing a fresh cup of coffee.</h3>
 
-- 🔭 I’m currently working on DE-HAZING model **video de-hazing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
