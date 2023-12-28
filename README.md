@@ -1,12 +1,24 @@
-<h1 align="center">Hi 👋, I'm rajiv</h1>
-<h3 align="center">I'm a passionate software developer with a love for coding and a curiosity for exploring new technologies. I enjoy turning innovative ideas into practical solutions. When I'm not in front of my computer, you can find me cycling,exploring, or brewing a fresh cup of coffee.</h3>
+# 💫 About Me:
+hi...!<br>I'm rajiv ,<br>I'm a passionate software developer with a love for coding and a curiosity <br>for exploring new technologies. <br>I enjoy turning innovative ideas into practical solutions. <br>When I'm not in front of my computer, you can find me cycling,exploring,<br> or brewing a fresh cup of coffee.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/rajiv-cloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajiv-cloud" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dream_cloud2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajiv-cloud) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rajiv2004-cloud&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajiv2004-cloud&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajiv2004-cloud&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rajiv2004-cloud&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/rajiv2004cloud.png" alt="TryHackMe">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rajiv2004-cloud&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rajiv2004-cloud&icon=1&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
