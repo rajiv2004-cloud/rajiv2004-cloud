@@ -3,7 +3,7 @@ hi...!<br>I'm rajiv ,<br>I'm a passionate software developer with a love for cod
 
 📢 talk to me about cybersecurity and frontend dev.
 💻 corrently working on FinanceManagementUI
-                                           WELCOME 2024 happy new year
+                                          
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajiv-cloud) 
