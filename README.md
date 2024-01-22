@@ -2,7 +2,8 @@
 hi...!<br>I'm rajiv ,<br>I'm a passionate software developer with a love for coding and a curiosity <br>for exploring new technologies. <br>I enjoy turning innovative ideas into practical solutions. <br>When I'm not in front of my computer, you can find me cycling,exploring,<br> or brewing a fresh cup of coffee.
 
 📢 talk to me about cybersecurity and frontend dev.
-💻 corrently working on FinanceManagementUI
+💻 corrently working on FinanceManagementUI and
+📂 formulaHR UI/UX
                                           
 
 ## 🌐 Socials:
