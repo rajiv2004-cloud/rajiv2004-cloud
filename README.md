@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi...!<br>I'm rajiv ,<br>I'm a passionate software developer with a love for coding and a curiosity<br>for exploring new technologies.<br>I enjoy turning innovative ideas into practical solutions.<br>When I'm not in front of my computer, you can find me cycling ,exploring,<br>or brewing a fresh cup of coffee.<br><br><br>🔭 I’m currently working on Finance-Management-UI ,Py-expo Website dev.   <br>👯 I’m looking to collaborate on Design / Ui-Ux and frontend<br>🌱 I’m currently learning Angular<br>💬 Ask me about Anything !!<br>⚡ I love Bug's
+hi...!<br>I'm rajiv ,<br>I'm a passionate software developer with a love for coding and a curiosity<br>for exploring new technologies.<br>I enjoy turning innovative ideas into practical solutions.<br>When I'm not in front of my computer, you can find me cycling ,exploring,<br>or brewing a fresh cup of coffee.<br><br><br>🔭 I’m currently working on Kyras as project manager.   <br>👯 I’m looking to collaborate on Design / Ui-Ux and frontend<br>🌱 I’m currently learning node and Api<br>💬 Ask me about Anything !!<br>⚡ I love Bug's
 
 
 ## 🌐 Socials:
