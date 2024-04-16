@@ -1,7 +1,7 @@
 # 💫 About Me:
 hi...!<br>I'm rajiv ,<br>I'm a passionate software developer with a love for coding and a curiosity<br>for exploring new technologies.<br>I enjoy turning innovative ideas into practical solutions.<br>When I'm not in front of my computer, you can find me cycling ,exploring,<br>or brewing a fresh cup of coffee.<br><br><br>🔭 I’m currently working on Kyras as project manager.   <br>👯 I’m looking to collaborate on Design / Ui-Ux and frontend<br>🌱 I’m currently learning node and Api<br>💬 Ask me about Anything !!<br>⚡ I love Bug's
-<img src="https://tryhackme-badges.s3.amazonaws.com/dream..png" alt="TryHackMe">
 
+## <img src="https://tryhackme-badges.s3.amazonaws.com/dream..png" alt="TryHackMe">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajiv-cloud) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Rajiv_dream) 
 
