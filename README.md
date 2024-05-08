@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi...!<br>I'm rajiv ,<br>I'm a passionate software developer with a love for coding and a curiosity<br>for exploring new technologies.<br>I enjoy turning innovative ideas into practical solutions.<br>When I'm not in front of my computer, you can find me cycling ,exploring,<br>or brewing a fresh cup of coffee.<br><br><br>🔭 I’m currently working on TeamX at kgisl.   <br>👯 I’m looking to collaborate on Design / Ui-Ux and frontend<br>🌱 I’m currently learning node and Api<br>💬 Ask me about Anything !!<br>⚡ I love Bug's
+hi...!<br>I'm rajiv ,<br>I'm a passionate software developer with a love for coding and a curiosity<br>for exploring new technologies.<br>I enjoy turning innovative ideas into practical solutions.<br>When I'm not in front of my computer, you can find me cycling ,exploring,<br>or brewing a fresh cup of coffee.<br><br><br>🔭 I’m currently working as tech lead and spoc at TeamX at kgisl.   <br>👯 I’m looking to collaborate on Design / Ui-Ux and frontend<br>🌱 I’m currently learning node and Api<br>💬 Ask me about Anything !!<br>⚡ I love Bug's
 
 
 ## 🌐 Socials:
