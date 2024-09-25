@@ -13,7 +13,8 @@
   
 # My Portfolio Website
 
-[Visit My Portfolio](https://rajivnagaraj65.wixstudio.io/portfolio-dev)
+<!--[Visit My Portfolio](https://rajivnagaraj65.wixstudio.io/portfolio-dev) -->
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-brightgreen?style=for-the-badge)]([https://your-portfolio-link.com](https://rajivnagaraj65.wixstudio.io/portfolio-dev))
 
 
 </div>
