@@ -1,6 +1,6 @@
 # Hi there, I'm Rajiv! 👋
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94"/>
+![Perfect Loop GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/assets/perfect-loop.gif)
 
 🔭 I’m currently working on DevOps<br>👯 I’m looking to collaborate on Full Stack / DevOps<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Anything related to Code...
 
