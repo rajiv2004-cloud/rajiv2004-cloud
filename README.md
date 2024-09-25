@@ -13,7 +13,8 @@
   
 # My Portfolio Website
 
-[![Visit My Portfolio](https://rajivnagaraj65.wixstudio.io/portfolio-dev)
+[Visit My Portfolio](https://rajivnagaraj65.wixstudio.io/portfolio-dev)
+
 
 </div>
 # 💻 Tech Stack:
