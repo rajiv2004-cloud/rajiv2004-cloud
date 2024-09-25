@@ -1,10 +1,6 @@
 # Hi there, I'm Rajiv! 👋
 
 
-<img src="https://raw.githubusercontent.com/rajiv2004-cloud/rajiv2004-cloud/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 🔭 I’m currently working on DevOps<br>👯 I’m looking to collaborate on Full Stack / DevOps<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Anything related to Code...
 
