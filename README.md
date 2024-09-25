@@ -1,6 +1,6 @@
 # Hi there, I'm Rajiv! 👋
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800" height="200">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000" height="300">
 
 🔭 I’m currently working on DevOps<br>👯 I’m looking to collaborate on Full Stack / DevOps<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Anything related to Code...
 
