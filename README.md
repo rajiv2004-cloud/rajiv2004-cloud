@@ -1,13 +1,53 @@
-# 💫 About Me:
-hi...!<br>I'm rajiv ,<br>I'm a passionate software developer with a love for coding and a curiosity<br>for exploring new technologies.<br>I enjoy turning innovative ideas into practical solutions.<br>When I'm not in front of my computer, you can find me cycling ,exploring,<br>or brewing a fresh cup of coffee.<br><br><br>🔭 I’m currently working as tech lead and spoc at TeamX at kgisl.   <br>👯 I’m looking to collaborate on Web dev<br>🌱 I’m currently learning springboot<br>💬 Ask me about Anything !!<br>⚡ I love Bug's
+# Hi there, I'm Rajiv! 👋
 
+I'm a **passionate software developer** who loves diving into code and discovering new technologies! With a curious mind and a strong enthusiasm for solving problems, I enjoy turning **innovative ideas** into practical solutions. When I'm not coding, you can find me **cycling**, **exploring**, or **brewing a fresh cup of coffee** ☕.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajiv-cloud) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Rajiv_dream) 
-## <img src="https://tryhackme-badges.s3.amazonaws.com/dream..png" alt="TryHackMe">
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 Current Role:
+I'm working as the **Tech Lead** and **SPOC** at **TeamX** at **KGiSL**. I thrive in leading projects and collaborating with dynamic teams to build impactful solutions.
+
+## 🌱 Currently Learning:
+![Spring Boot Logo](https://img.shields.io/badge/Spring%20Boot-%23007366.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+Actively expanding my knowledge in **Spring Boot** to level up backend development skills.
+
+## 👯 Looking to Collaborate:
+I’m open to collaborating on **Web Development** projects! Let’s build something **awesome** together.
+
+## 💬 Ask Me About:
+**Anything** tech-related! I love discussing code, especially when it comes to **JavaScript**, **Python**, **React**, and **NodeJS**.
+
+---
+
+## ⚡ Fun Fact:
+I absolutely love finding **bugs**! 🐛 They make development more exciting and a chance to improve.
+
+---
+
+## 🛠️ Tech Stack:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23121011.svg?style=for-the-badge&logo=githubpages&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121011.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
+
+---
+
+Thanks for stopping by! 🙌 Feel free to reach out or check out my work. Let's build something great together! 🚀
