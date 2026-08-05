@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Cinematic Night Construction (Cyberpunk/Server aesthetic) -->
-  <img src="https://images.unsplash.com/photo-1508450859948-4e04fabaa4ea?q=80&w=2000&auto=format&fit=crop" alt="City Construction Crane" style="width: 100%; max-height: 350px; object-fit: cover; border-radius: 12px; margin-bottom: 15px;" />
+  <img src="https://images.unsplash.com/photo-1508450859948-4e04fabaa4ea?q=80&w=2000&auto=format&fit=crop" alt="City Construction Crane" style="width: 100%; max-height: 350px; object-fit: cover; border-radius: 12px; margin-bottom: 15px; opacity: 0.5;" />
 
   <h2>🚧 <br><code>[ERR_PROFILE_INCOMPLETE]: ARCHITECTURE UNDER CONSTRUCTION</code></h2>
 </div>
