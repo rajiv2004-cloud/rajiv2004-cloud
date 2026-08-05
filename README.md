@@ -1,3 +1,7 @@
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="500">
+<br><br>
+
 <div align="center">
   <h2>🚧 <br><code>[ERR_PROFILE_INCOMPLETE]: ARCHITECTURE UNDER CONSTRUCTION</code></h2>
 </div>
